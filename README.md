@@ -52,13 +52,13 @@ Steps are to be completed under the div with `id="exercise5"`
 
 1. Edit the blog post so that more _semantically meaningful_ elements are used instead of generic **division** containers.
    - You will need to use
-     - **one main element**
-     - **three section elements**
-     - **one article element**
-     - **one header element**
-     - **two nav element**
-     - **two unordered list element**
-     - **five list item elements**
+     - **one main element**Done
+     - **three section elements**Done
+     - **one article element**Done
+     - **one header element**done
+     - **two nav element**Done
+     - **two unordered list element**Done
+     - **five list item elements**Done
      - **five anchor elements**
-     - **one footer element**
+     - **one footer element**Done
    - To be completed, you should have no more than **three division elements** and **zero span elements** (not including the div with `id="exercise5"`)
